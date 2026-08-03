@@ -1,4 +1,3 @@
-docs/01_model_comparison.md
 # 1. LLM 모델 비교·선정 보고서
 
 ## 1.1 프로젝트 개요
