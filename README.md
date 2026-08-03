@@ -158,3 +158,24 @@ CTR(클릭률)을 고려한 제목 자동 생성
 # 📄 License
 
 MIT License
+# YouTube LLM Prompt Engineering System
+
+LLM을 활용한 유튜브 콘텐츠 제작 자동화 시스템입니다.
+
+사용자가 영상 주제를 입력하면 AI가 콘텐츠 기획, 대본 작성, 제목 생성, 썸네일 문구 생성까지 수행하도록 Prompt Engineering 기반으로 설계하였습니다.
+
+---
+
+# Project Overview
+
+## 목표
+
+- LLM 기반 콘텐츠 제작 자동화
+- Prompt 구조 설계
+- Hallucination 방지
+- 재사용 가능한 Prompt System 구축
+
+---
+
+# System Flow
+
